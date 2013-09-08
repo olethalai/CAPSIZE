@@ -38,6 +38,6 @@ puts another_string
 
 ## WHY?!
 
-Once, I forgot the word for 'capitalize' but it's ok now because it's a method... Alias.
+Once, I forgot the word for 'capitalize' and said 'capsize' instead, but it's ok now because it's a method... Alias.
 
 I will go down with this ship.
