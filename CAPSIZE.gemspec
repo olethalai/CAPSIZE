@@ -6,4 +6,5 @@ Gem::Specification.new do |s|
   s.author      = "Oletha Lai"
   s.files       = ["lib/CAPSIZE.rb"]
   s.homepage    = 'https://github.com/olethalai/CAPSIZE'
+  s.license		= 'MIT'
 end
